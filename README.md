@@ -12,14 +12,32 @@
 
 Bem-vindo ao meu repositório de projetos práticos em Machine Learning e Inteligência Artificial! Aqui você encontrará implementações, tutoriais e experimentos desenvolvidos no Google Colab.
 
+
 ## 📚 Conteúdo Destacado
 
-### 🔗 Links dos Códigos
-| Tópico | Notebook | Descrição |
-|--------|----------|-----------|
-| **Aplicação de RAG com modelo Local usando LangChain + DeepSeekR1** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1p_jjc-ifQUFJaRnMRB7TdfiPQTzM7L4z?usp=drive_link) |LLM com adição de conhecimento via RAG |
-| **Árvore de Decisão no python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1qy-qpTUZKYKqnYMsxdguV3apmYcp5_oh/view?usp=sharing) | Machine Learning com PyCaret |
-| **Árvore de Decisão no R** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1x7oiU-V7nive0-6nv0q81uQEtwIqKmd_/view?usp=sharing) | Machine Learning com TidyModels |
+#### 🔗 Códigos de Machine Learning em python
+
+| Tópico | Notebook | Data Atualização |Descrição |
+|--------|----------|-----------| -----------|
+| **Árvore de Decisão no python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1qy-qpTUZKYKqnYMsxdguV3apmYcp5_oh/view?usp=sharing) | 04.02.2025 |  Machine Learning com PyCaret |
+
+
+#### 🔗 Códigos de Machine Learning em R
+
+| Tópico | Notebook | Data Atualização |Descrição |
+|--------|----------|-----------| -----------|
+| **Árvore de Decisão no R** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1x7oiU-V7nive0-6nv0q81uQEtwIqKmd_/view?usp=sharing) | 04.02.2025 | Machine Learning com TidyModels |
+
+
+
+#### 🔗 Códigos de Deep Learning e IA Generativa
+
+| Tópico | Notebook | Data Atualização |Descrição |
+|--------|----------|-----------| -----------|
+| **Aplicação de RAG com modelo Local usando LangChain + DeepSeekR1** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1p_jjc-ifQUFJaRnMRB7TdfiPQTzM7L4z?usp=drive_link) |03.02.2025 | LLM com adição de conhecimento via RAG |
+
+
+
 
 ## 🛠️ Como Utilizar
 1. Clique em qualquer badge **"Open in Colab"** acima
@@ -39,7 +57,9 @@ Bem-vindo ao meu repositório de projetos práticos em Machine Learning e Inteli
 - <img src="https://img.shields.io/badge/tidymodels-%23276DC3?logo=r&logoColor=white" alt="tidymodels">
 
 ## 🤝 Contribuição
+
 Contribuições são bem-vindas! Siga estes passos:
+
 1. Fork este repositório
 2. Crie um branch (`git checkout -b feature/nova-feature`)
 3. Commit suas mudanças (`git commit -m 'Adiciona nova feature'`)
