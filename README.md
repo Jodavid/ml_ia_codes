@@ -20,6 +20,13 @@ Bem-vindo ao meu repositório de projetos práticos em Machine Learning e Inteli
 | Tópico | Notebook | Data Atualização |Descrição |
 |--------|----------|-----------| -----------|
 | **Árvore de Decisão no python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1qy-qpTUZKYKqnYMsxdguV3apmYcp5_oh/view?usp=sharing) | 04.02.2025 |  Machine Learning com PyCaret |
+| **Floresta Aleatória no python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1FAbV9es6lZaNDO5AxIhPvnzcoIEJBBQI/view?usp=sharing) | 11.02.2025 |  Machine Learning com PyCaret |
+| **SVM Linear no python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1ZRGkFAW0kd2OcrJh2YQL1TC5iwzXVdDo/view?usp=sharing) | 11.02.2025 |  Machine Learning com PyCaret |
+| **SVM Não Linear no python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1_2pG3KQZSPq4GpRDZgvn6yRbz0cioR1b/view?usp=sharing) | 11.02.2025 |  Machine Learning com PyCaret |
+| **k-NN no python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1LphqukrRvRT76x2VusjEhwNWsatU-D2E/view?usp=sharing) | 11.02.2025 |  Machine Learning com PyCaret |
+| **Árvore de Regressão no python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/18eaHfW706fjg_rumR3xs9HFHCfIbo_VJ/view?usp=sharing) | 11.02.2025 |  Machine Learning com PyCaret |
+| **Floresta Aleatória para Regressão no python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1-onGFb8-nwUqGy0DxLCmEue34kZLm9NH/view?usp=sharing) | 11.02.2025 |  Machine Learning com PyCaret |
+
 
 
 #### 🔗 Códigos de Machine Learning em R
@@ -27,6 +34,10 @@ Bem-vindo ao meu repositório de projetos práticos em Machine Learning e Inteli
 | Tópico | Notebook | Data Atualização |Descrição |
 |--------|----------|-----------| -----------|
 | **Árvore de Decisão no R** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1x7oiU-V7nive0-6nv0q81uQEtwIqKmd_/view?usp=sharing) | 04.02.2025 | Machine Learning com TidyModels |
+| **Floresta Aleatória no R** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1P3ZaFB7jowHrXAyoWUdWaVr0Ot6BaHVK/view?usp=sharing) | 11.02.2025 | Machine Learning com TidyModels |
+| **SVM Linear no R** | [![Open In R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)](https://drive.google.com/file/d/18lrwHML2TFAEpk4W_eZ1cn4AUSEhewUC/view?usp=sharing) | 11.02.2025 | Machine Learning com TidyModels |
+| **SVM Não Linear no R** | [![Open In R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)](https://drive.google.com/file/d/1Q_BdM1Q89z-UM0nYXGJRpegLycaRxTr1/view?usp=sharing) | 11.02.2025 | Machine Learning com TidyModels |
+| **k-NN no R** | [![Open In R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)](https://drive.google.com/file/d/1mAeNjH75i-Ap9mVQStMCl11bhCEV5G5X/view?usp=sharing) | 11.02.2025 | Machine Learning com TidyModels |
 
 
 
@@ -36,6 +47,12 @@ Bem-vindo ao meu repositório de projetos práticos em Machine Learning e Inteli
 |--------|----------|-----------| -----------|
 | **Aplicação de RAG com modelo Local usando LangChain + DeepSeekR1** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1p_jjc-ifQUFJaRnMRB7TdfiPQTzM7L4z?usp=drive_link) |03.02.2025 | LLM com adição de conhecimento via RAG |
 
+#### 🔗 Códigos para Trabalhar com Spark
+
+| Tópico | Notebook | Data Atualização |Descrição |
+|--------|----------|-----------| -----------|
+| **Usando Spark e Python - PySpark** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1njFqZz_UYmz3LRUDkxV7fw_vSwZsn-3Y/view?usp=sharing) |11.02.2025 | SPARK |
+| **Usando Spark e R - Sparklyr** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1SfLxTbNS5Eq9oToUFUxOCGHK3DantDzW/view?usp=sharing) |11.02.2025 | SPARK |
 
 
 
