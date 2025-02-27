@@ -26,6 +26,7 @@ Bem-vindo ao meu repositório de projetos práticos em Machine Learning e Inteli
 | **k-NN no python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1LphqukrRvRT76x2VusjEhwNWsatU-D2E/view?usp=sharing) | 11.02.2025 |  Machine Learning com PyCaret |
 | **Árvore de Regressão no python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/18eaHfW706fjg_rumR3xs9HFHCfIbo_VJ/view?usp=sharing) | 11.02.2025 |  Machine Learning com PyCaret |
 | **Floresta Aleatória para Regressão no python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1-onGFb8-nwUqGy0DxLCmEue34kZLm9NH/view?usp=sharing) | 11.02.2025 |  Machine Learning com PyCaret |
+| **k-means no python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1OCvd40lyBetPAG33Q6JSviFIk7dbPVT4/view?usp=sharing) | 25.02.2025 |  Machine Learning com PyCaret |
 
 
 
@@ -38,6 +39,7 @@ Bem-vindo ao meu repositório de projetos práticos em Machine Learning e Inteli
 | **SVM Linear no R** | [![Open In R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)](https://drive.google.com/file/d/18lrwHML2TFAEpk4W_eZ1cn4AUSEhewUC/view?usp=sharing) | 11.02.2025 | Machine Learning com TidyModels |
 | **SVM Não Linear no R** | [![Open In R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)](https://drive.google.com/file/d/1Q_BdM1Q89z-UM0nYXGJRpegLycaRxTr1/view?usp=sharing) | 11.02.2025 | Machine Learning com TidyModels |
 | **k-NN no R** | [![Open In R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)](https://drive.google.com/file/d/1mAeNjH75i-Ap9mVQStMCl11bhCEV5G5X/view?usp=sharing) | 11.02.2025 | Machine Learning com TidyModels |
+| **k-means no R** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/14RuxpZConbX1HiX1mwzQ2-LppKVbzZUr/view?usp=sharing) | 25.02.2025 | Machine Learning com TidyModels |
 
 
 
