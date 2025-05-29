@@ -1,6 +1,6 @@
-# 🚀 Códigos de Machine Learning & Inteligência Artificial
+# 🚀 Códigos de Statistical Machine Learning & Inteligência Artificial
 
-Útima Atualização: 18.05.2025
+Útima Atualização: 28.05.2025
 
 <div align="center">
  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?&style=for-the-badge&logo=google-colab&logoColor=white" alt="Colab">
@@ -10,12 +10,12 @@
   <img src="https://img.shields.io/badge/Deep%20Learning-%230075A8.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" alt="DL">
 </div>
 
-Bem-vindo ao meu repositório de projetos práticos em Machine Learning e Inteligência Artificial! Aqui você encontrará implementações, tutoriais e experimentos desenvolvidos no Google Colab.
+Bem-vindo ao meu repositório de projetos práticos em Statistical Machine Learning e Inteligência Artificial! Aqui você encontrará implementações, tutoriais e experimentos desenvolvidos no Google Colab.
 
 
 ## 📚 Conteúdo Destacado
 
-#### 🔗 Códigos de Machine Learning em python
+#### 🔗 Códigos de Statistical Machine Learning em python
 
 ##### 📈 Regressão
 
@@ -45,19 +45,21 @@ Bem-vindo ao meu repositório de projetos práticos em Machine Learning e Inteli
 
 ---
 
-#### 🔗 Códigos de Machine Learning em R
+#### 🔗 Códigos de Statistical Machine Learning em R
 
 ##### 📈 Regressão
 
 | Tópico | Notebook | Data Atualização |Descrição |
 |--------|----------|-----------| -----------|
-| **Regressão Linear no R** | [![Open In R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)](https://drive.google.com/file/d/10_B7vFK3KiDYl9Z6tgawmK6DchV3BkGU/view?usp=drive_link) | 18.02.2025 | Machine Learning com TidyModels |
-| **Regressão Linear Lasso no R** | [![Open In R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)](https://drive.google.com/file/d/1fmPLnHfanZHVaoTdd44OU2sYA23hKWTM/view?usp=drive_link) | 18.02.2025 | Machine Learning com TidyModels |
-| **Regressão Linear Ridge no R** | [![Open In R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)](https://drive.google.com/file/d/1FK68u92u1Jitgf6Bsjjz4nZlRjGXBTQA/view?usp=drive_link) | 18.02.2025 | Machine Learning com TidyModels |
-| **k-NN para Regressão no R** | [![Open In R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)](https://drive.google.com/file/d/1y7NqzCF9AL6ij6T-1BTBt_ATI1IFmWwN/view?usp=drive_link) | 18.02.2025 | Machine Learning com TidyModels |
-| **Árvore de Decisão para Regressão no R** | [![Open In R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)](https://drive.google.com/file/d/1N8WxqriemuapJbsNhnzF4rHkaTcLEvwt/view?usp=drive_link) | 18.02.2025 | Machine Learning com TidyModels |
-| **Random Forest para Regressão no R** | [![Open In R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)](https://drive.google.com/file/d/1yRwhWsmM5z29GdC1bwRcvKBd5HWFXaEP/view?usp=drive_link) | 18.02.2025 | Machine Learning com TidyModels |
-| **SVM para Regressão (SVR) no R** | [![Open In R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)](https://drive.google.com/file/d/1n618z2f4xRBXMLvUNQnW6T-Q6PhjE31B/view?usp=drive_link) | 18.02.2025 | Machine Learning com TidyModels |
+| **Regressão Linear no R** | [![Open In R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)](https://drive.google.com/file/d/10_B7vFK3KiDYl9Z6tgawmK6DchV3BkGU/view?usp=drive_link) | 18.05.2025 | Machine Learning com TidyModels |
+| **Regressão Linear Lasso no R** | [![Open In R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)](https://drive.google.com/file/d/1fmPLnHfanZHVaoTdd44OU2sYA23hKWTM/view?usp=drive_link) | 18.05.2025 | Machine Learning com TidyModels |
+| **Regressão Linear Ridge no R** | [![Open In R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)](https://drive.google.com/file/d/1FK68u92u1Jitgf6Bsjjz4nZlRjGXBTQA/view?usp=drive_link) | 18.05.2025 | Machine Learning com TidyModels |
+| **k-NN para Regressão no R** | [![Open In R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)](https://drive.google.com/file/d/1y7NqzCF9AL6ij6T-1BTBt_ATI1IFmWwN/view?usp=drive_link) | 25.05.2025 | Machine Learning com TidyModels |
+| **Árvore de Decisão para Regressão no R** | [![Open In R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)](https://drive.google.com/file/d/17lbIe2tHmucpbbfGUYBp-mlU5-ifffbO/view?usp=sharing) | 25.05.2025 | Machine Learning com TidyModels |
+| **Bagging com Árvore de Decisão para Regressão no R** | [![Open In R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)](https://drive.google.com/file/d/1WOVd5FP8l5YlKovjnMSHjOatQuaHkUtb/view?usp=sharing) | 25.05.2025 | Machine Learning com TidyModels |
+| **Random Forest para Regressão no R** | [![Open In R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)](https://drive.google.com/file/d/1iWjdbcO5ovZAmFcDmMZRe0GF-mdhAQyV/view?usp=sharing) | 25.05.2025 | Machine Learning com TidyModels |
+| **Boosting com Àrvores de Decisão para Regressão no R** | [![Open In R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)](https://drive.google.com/file/d/1BR2YaUPMH4FsNrjztW0oiB7ShtOW2Cx7/view?usp=sharing) | 25.05.2025 | Machine Learning com TidyModels |
+| **SVM para Regressão (SVR) no R** | [![Open In R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)](https://drive.google.com/file/d/1n618z2f4xRBXMLvUNQnW6T-Q6PhjE31B/view?usp=drive_link) | 25.05.2025 | Machine Learning com TidyModels |
 
 ##### 📊 Classificação
 
