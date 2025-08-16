@@ -1,6 +1,6 @@
 # 🚀 Códigos de Statistical Machine Learning & Inteligência Artificial
 
-Útima Atualização: 28.05.2025
+Útima Atualização: 16.08.2025
 
 <div align="center">
  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?&style=for-the-badge&logo=google-colab&logoColor=white" alt="Colab">
@@ -97,6 +97,21 @@ Bem-vindo ao meu repositório de projetos práticos em Statistical Machine Learn
 |--------|----------|-----------| -----------|
 | **Usando Spark e Python - PySpark** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1njFqZz_UYmz3LRUDkxV7fw_vSwZsn-3Y/view?usp=sharing) |11.02.2025 | SPARK |
 | **Usando Spark e R - Sparklyr** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1SfLxTbNS5Eq9oToUFUxOCGHK3DantDzW/view?usp=sharing) |11.02.2025 | SPARK |
+
+
+---
+
+
+
+## ⚙️ Utilizando .zip para instalar as bibliotecas do tidymodels no Colab
+
+Esse código exemplifica como utilizar um arquivo .zip hospedado no Google Drive para instalar pacotes R mais especificamente do tidymodels no ambiente do Google Colab. Isso é útil, porque o Colab demora muito para instalar esses pacotes diretamente da CRAN.
+
+| Tópico | Notebook | Data Atualização |Descrição |
+|--------|----------|-----------| -----------|
+**Utilizando .zip pelo drive para instalação dos Pacotes R no Colab Python - Exemplo com Floresta Aleatória** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SL6rQp3oRT7qG1sftZdKxlLTb3M-AZGI?usp=sharing) |16.08.2025 |  |
+
+
 
 
 ---
