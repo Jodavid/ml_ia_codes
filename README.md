@@ -29,11 +29,11 @@ Bem-vindo ao meu repositório de projetos práticos em Statistical Machine Learn
 
 | Tópico | Notebook | Data Atualização |Descrição |
 |--------|----------|-----------| -----------|
-| **Árvore de Decisão no python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1qy-qpTUZKYKqnYMsxdguV3apmYcp5_oh/view?usp=sharing) | 04.02.2025 |  Machine Learning com PyCaret |
-| **Floresta Aleatória no python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1FAbV9es6lZaNDO5AxIhPvnzcoIEJBBQI/view?usp=sharing) | 11.02.2025 |  Machine Learning com PyCaret |
-| **SVM Linear no python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1ZRGkFAW0kd2OcrJh2YQL1TC5iwzXVdDo/view?usp=sharing) | 11.02.2025 |  Machine Learning com PyCaret |
-| **SVM Não Linear no python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1_2pG3KQZSPq4GpRDZgvn6yRbz0cioR1b/view?usp=sharing) | 11.02.2025 |  Machine Learning com PyCaret |
-| **k-NN no python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1LphqukrRvRT76x2VusjEhwNWsatU-D2E/view?usp=sharing) | 11.02.2025 |  Machine Learning com PyCaret |
+| **Árvore de Decisão no python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1eKlC2j8gUnkehtOmOC0nEKpwQpR4xR-3/view?usp=drive_link) | 09.10.2026 |  Machine Learning com PyCaret |
+| **Floresta Aleatória no python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1t9WW8YIGM0_2HuWvSgjLAqyP3KnFtYfL/view?usp=drive_link) | 09.10.2026 |  Machine Learning com PyCaret |
+| **SVM Linear no python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/18nzao-LEUQB-HvUnlEvJU20rqRTnhnID/view?usp=drive_link) | 09.10.2026 |  Machine Learning com PyCaret |
+| **SVM Não Linear no python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1S7Geolgm_tLJADV_bIdyJE9DyITIU0OF/view?usp=drive_link) | 09.10.2026 |  Machine Learning com PyCaret |
+| **k-NN no python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1ueaad4GWOQzLzD55ifQ4EeUNlHGRR4Vb/view?usp=drive_link) | 09.10.2025 |  Machine Learning com PyCaret |
 
 ##### 🎯 Agrupamento
 
