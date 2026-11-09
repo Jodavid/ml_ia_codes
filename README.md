@@ -1,6 +1,6 @@
 # 🚀 Códigos de Statistical Machine Learning & Inteligência Artificial
 
-Útima Atualização: 16.08.2025
+Útima Atualização: 09.11.2026
 
 <div align="center">
  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?&style=for-the-badge&logo=google-colab&logoColor=white" alt="Colab">
